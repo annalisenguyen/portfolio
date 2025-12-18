@@ -36,12 +36,12 @@ let posts = [
   },
   {
     slug: 'urban-echoes',
-    title: 'Poetry Collection: "Urban Echoes"',
+    title: 'Poetry Collection',
     category: 'creative',
     excerpt: 'A collection of poems exploring city life and human connections...',
     date: '2024-02-10',
     author: 'Annalise Nguyen',
-    tags: ['poetry', 'urban', 'contemporary'],
+    tags: ['poetry'],
     content: `
       <div class="poem">
         <h3>City Lights</h3>
