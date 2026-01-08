@@ -19,22 +19,6 @@
 
 let posts = [
   {
-    slug: 'midnight-garden',
-    title: 'Short Story: "The Midnight Garden"',
-    category: 'creative',
-    excerpt: 'A tale of mystery and wonder set in an abandoned garden...',
-    date: '2024-01-15',
-    author: 'Annalise Nguyen',
-    tags: ['fiction', 'short story', 'mystery'],
-    content: `
-      <p>In the heart of the old city, where the modern world had forgotten to look, there stood a garden that only came alive at midnight.</p>
-      <p>The iron gates, rusted and forgotten, creaked open only when the moon reached its zenith. Those who dared to enter found themselves in a world where time moved differently, where flowers bloomed in shades that didn't exist in daylight.</p>
-      <p>Sarah discovered it by accident one late night, returning home from her shift at the hospital. The glow from within the garden caught her eye—a soft, ethereal light that seemed to pulse with its own heartbeat.</p>
-      <p>She pushed open the gate, and as she stepped inside, the world outside faded away. The garden welcomed her, its paths winding through beds of midnight roses and starlight lilies. In the center stood an ancient oak, its branches reaching toward a sky that seemed closer than it should be.</p>
-      <p>That night, Sarah learned that some places exist between the cracks of reality, waiting for those who need them most.</p>
-    `
-  },
-  {
     slug: 'urban-echoes',
     title: 'Poetry Collection',
     category: 'creative',
@@ -64,21 +48,6 @@ let posts = [
         While we below<br/>
         Touch each other's lives</p>
       </div>
-    `
-  },
-  {
-    slug: 'last-train',
-    title: 'Flash Fiction: "The Last Train"',
-    category: 'creative',
-    excerpt: 'A moment of reflection on a late-night journey home...',
-    date: '2024-03-05',
-    author: 'Annalise Nguyen',
-    tags: ['flash fiction', 'reflection'],
-    content: `
-      <p>The last train of the night was always the quietest. Empty seats stretched out before him, each one holding the ghost of a conversation that had happened hours earlier.</p>
-      <p>Marcus found his usual spot—window seat, third car from the front. The city lights blurred past, streaks of gold and white against the dark sky. He watched his reflection in the glass, superimposed over the passing world.</p>
-      <p>In that liminal space between stations, between the day that was and the day that would be, Marcus felt most like himself. No expectations, no roles to play. Just a man on a train, moving through the night.</p>
-      <p>When the train pulled into his stop, he gathered his things and stepped onto the platform. The doors closed behind him with a soft hiss, and the train continued into the darkness, carrying its emptiness to the next station.</p>
     `
   },
   {
