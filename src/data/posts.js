@@ -51,7 +51,7 @@ let posts = [
         We navigate by</p>
       </div>
       <div class="poem">
-        <h3>Subway Dreams</h3>
+        <h3>My Favorite things</h3>
         <p>Underground tunnels<br/>
         Carry whispered conversations<br/>
         Between strangers<br/>
