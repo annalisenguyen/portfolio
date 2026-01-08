@@ -158,7 +158,7 @@ let posts = [
   },
   {
     slug: 'tips-aspiring-writers',
-    title: 'Article: "10 Tips for Aspiring Writers"',
+    title: 'Fashion Feels: the psychology behind how you dress',
     category: 'blog',
     excerpt: 'Practical advice for writers at any stage of their journey...',
     date: '2024-01-25',
