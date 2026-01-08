@@ -304,6 +304,8 @@ export function getCategories() {
 
 /**
  * Add a new post
+ * Note: Changes are temporary and will be lost on page refresh
+ * To persist, edit src/data/posts.js directly
  */
 export function addPost(postData) {
   // Check if slug already exists
@@ -316,12 +318,14 @@ export function addPost(postData) {
     slug: postData.slug
   })
   
-  // Save to localStorage for persistence
-  savePostsToStorage()
+  // Notify listeners of changes
+  window.dispatchEvent(new CustomEvent('postsUpdated'))
 }
 
 /**
  * Update an existing post
+ * Note: Changes are temporary and will be lost on page refresh
+ * To persist, edit src/data/posts.js directly
  */
 export function updatePost(oldSlug, postData) {
   const index = posts.findIndex(p => p.slug === oldSlug)
@@ -340,12 +344,14 @@ export function updatePost(oldSlug, postData) {
     slug: postData.slug
   }
   
-  // Save to localStorage for persistence
-  savePostsToStorage()
+  // Notify listeners of changes
+  window.dispatchEvent(new CustomEvent('postsUpdated'))
 }
 
 /**
  * Delete a post
+ * Note: Changes are temporary and will be lost on page refresh
+ * To persist, edit src/data/posts.js directly
  */
 export function deletePost(slug) {
   const index = posts.findIndex(p => p.slug === slug)
@@ -356,44 +362,10 @@ export function deletePost(slug) {
   
   posts.splice(index, 1)
   
-  // Save to localStorage for persistence
-  savePostsToStorage()
+  // Notify listeners of changes
+  window.dispatchEvent(new CustomEvent('postsUpdated'))
 }
 
-/**
- * Save posts to localStorage and notify listeners
- */
-function savePostsToStorage() {
-  try {
-    localStorage.setItem('blogPosts', JSON.stringify(posts))
-    // Dispatch custom event to notify components of changes
-    window.dispatchEvent(new CustomEvent('postsUpdated'))
-  } catch (error) {
-    console.error('Failed to save posts to localStorage:', error)
-  }
-}
-
-/**
- * Load posts from localStorage on initialization
- */
-function loadPostsFromStorage() {
-  try {
-    const savedPosts = localStorage.getItem('blogPosts')
-    if (savedPosts) {
-      const parsed = JSON.parse(savedPosts)
-      // If we have saved posts, completely replace the default posts
-      // This ensures deletions and edits are properly reflected
-      if (parsed.length > 0) {
-        // Clear existing posts and replace with saved ones
-        posts.length = 0
-        posts.push(...parsed)
-      }
-    }
-  } catch (error) {
-    console.error('Failed to load posts from localStorage:', error)
-  }
-}
-
-// Load saved posts on module initialization
-loadPostsFromStorage()
+// Posts are loaded directly from this file - no localStorage persistence
+// To add, edit, or delete posts permanently, modify the posts array above
 
