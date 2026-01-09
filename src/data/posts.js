@@ -158,7 +158,7 @@ let posts = [
   },
   {
     slug: 'literary-festivals-world',
-    title: 'Feature: "Exploring Literary Festivals Around the World"',
+    title: 'Giving Grace in the Modern Day',
     category: 'blog',
     excerpt: 'A guide to the most inspiring literary events and festivals...',
     date: '2024-03-10',
