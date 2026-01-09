@@ -76,56 +76,6 @@ let posts = [
     `
   },
   {
-    slug: 'postmodernism-fiction',
-    title: 'Essay: "Postmodernism in Contemporary Fiction"',
-    category: 'academic',
-    excerpt: 'Exploring narrative techniques and themes in 21st-century literature...',
-    date: '2024-02-15',
-    author: 'Annalise Nguyen',
-    tags: ['essay', 'postmodernism', 'literary theory'],
-    content: `
-      <h2>Introduction</h2>
-      <p>Postmodernism, once considered a movement of the late 20th century, continues to influence contemporary fiction in profound ways. This essay explores how postmodern techniques have evolved and adapted to address 21st-century concerns.</p>
-      
-      <h2>Metafiction and Self-Reflexivity</h2>
-      <p>Contemporary authors employ metafictional techniques to explore the nature of storytelling itself. Works like Jennifer Egan's "A Visit from the Goon Squad" demonstrate how narrative structure can become a form of commentary on contemporary life.</p>
-      
-      <h2>Intertextuality in the Digital Age</h2>
-      <p>The internet has transformed intertextuality, allowing authors to reference not just literary works but also memes, viral content, and digital culture. This creates new layers of meaning accessible to digitally-native readers.</p>
-      
-      <h2>Fragmentation and Multiple Perspectives</h2>
-      <p>The postmodern emphasis on fragmentation reflects contemporary experiences of information overload and multiple identities. Authors use fragmented narratives to represent the complexity of modern consciousness.</p>
-      
-      <h2>Conclusion</h2>
-      <p>Postmodern techniques remain vital tools for contemporary authors seeking to represent the complexities of 21st-century life. Rather than being a historical movement, postmodernism has become an integral part of the contemporary literary toolkit.</p>
-    `
-  },
-  {
-    slug: 'literary-movements-20th-century',
-    title: 'Case Study: "Literary Movements of the 20th Century"',
-    category: 'academic',
-    excerpt: 'A comprehensive study of major literary movements and their influences...',
-    date: '2024-03-01',
-    author: 'Annalise Nguyen',
-    tags: ['case study', 'literary history'],
-    content: `
-      <h2>Overview</h2>
-      <p>This case study examines the major literary movements of the 20th century, tracing their development, key characteristics, and lasting influence on contemporary literature.</p>
-      
-      <h2>Modernism (1900-1945)</h2>
-      <p>Modernism emerged as a response to the disillusionment following World War I. Key characteristics include stream-of-consciousness narration, experimental forms, and a focus on individual psychology. Major figures include James Joyce, Virginia Woolf, and T.S. Eliot.</p>
-      
-      <h2>Postmodernism (1945-1990)</h2>
-      <p>Postmodernism questioned the certainties of modernism, embracing fragmentation, metafiction, and skepticism toward grand narratives. Authors like Thomas Pynchon and Don DeLillo exemplify this movement.</p>
-      
-      <h2>Contemporary Trends (1990-Present)</h2>
-      <p>Contemporary literature blends elements from various movements, often incorporating digital culture and global perspectives. The boundaries between genres have become increasingly fluid.</p>
-      
-      <h2>Conclusion</h2>
-      <p>Understanding these movements provides essential context for contemporary literary production and helps readers appreciate the evolution of narrative techniques and thematic concerns.</p>
-    `
-  },
-  {
     slug: 'tips-aspiring-writers',
     title: 'Fashion Feels: the psychology behind how you dress',
     category: 'blog',
