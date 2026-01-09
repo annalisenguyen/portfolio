@@ -28,11 +28,29 @@ let posts = [
     tags: ['poetry'],
     content: `
       <div class="poem">
-        <h3>Porch Light</h3>
-        <p>Neon signs flicker<br/>
-        Like distant stars<br/>
-        In concrete constellations<br/>
-        We navigate by</p>
+        <h3>Leave the Porch Light On</h3>
+        <p>I prayed for these days to come, but now<br/>
+        it's been too long since we've crowded this home,<br/>
+        Stretching ourselves into each corner somehow.<br/>
+        It's been too long, your absence feels numb.<br/>
+        <br/>
+        These walls which hurt and birthed, raised and hummed<br/>
+        are now quiet, haunted with your absence.<br/>
+        I beg you all, come back and clear my glum.<br/>
+        I get it, I've got it, I'm done with this lesson.<br/>
+        <br/>
+        Can't you hear it? Mom crying for our adolescence?<br/>
+        Can't you hear it? Or is it all quiet?<br/>
+        It rings in my ears like finishing each other's sentences<br/>
+        Like shattering sobs and holes in the wall – God, what a riot!<br/>
+        <br/>
+        I'm scared that I'm overly reliant<br/>
+        It's been so long and every light is left on<br/>
+        And all I can do is think about and deny it<br/>
+        Don't you know, I'm still scared when you're not home by dawn.<br/>
+        <br/>
+        Somehow, it's been too long<br/>
+        Please, my brother, I'll leave the porch light on</p>
       </div>
       <div class="poem">
         <h3>My Favorite things</h3>
