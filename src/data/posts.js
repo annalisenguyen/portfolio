@@ -152,41 +152,6 @@ let posts = [
       
       <p>This post is in honor of suicide prevention month, as a reminder that you are never alone. As the month comes to an end, mental health does not. Remember to take care of yourself and your loved ones, and if you are ever facing thoughts of self-harm or suicide do not be afraid to reach out to those around you.</p>
     `
-  },
-  {
-    slug: 'literary-festivals-world',
-    title: 'Giving Grace in the Modern Day',
-    category: 'blog',
-    excerpt: 'A guide to the most inspiring literary events and festivals...',
-    date: '2024-03-10',
-    author: 'Annalise Nguyen',
-    tags: ['travel', 'literature', 'events'],
-    content: `
-      <p>Literary festivals bring together readers, writers, and book lovers from around the world. Here's a guide to some of the most inspiring events on the literary calendar.</p>
-      
-      <h2>Hay Festival (Hay-on-Wye, Wales)</h2>
-      <p>Known as "the Woodstock of the mind," Hay Festival transforms a small Welsh town into a literary hub each spring. With over 600 events featuring authors, thinkers, and performers, it's a celebration of ideas and storytelling.</p>
-      
-      <h2>Edinburgh International Book Festival (Scotland)</h2>
-      <p>The world's largest celebration of the written word, Edinburgh's book festival takes over Charlotte Square Gardens every August. It features both established and emerging voices from around the globe.</p>
-      
-      <h2>Jaipur Literature Festival (India)</h2>
-      <p>Asia's largest free literary festival brings together writers, thinkers, and readers in the vibrant city of Jaipur. The festival celebrates literature in multiple languages and showcases the rich literary traditions of South Asia.</p>
-      
-      <h2>Brooklyn Book Festival (USA)</h2>
-      <p>This free, public festival celebrates literature in one of New York's most creative boroughs. It features panels, readings, and book signings with authors from diverse backgrounds and genres.</p>
-      
-      <h2>Why Attend Literary Festivals?</h2>
-      <p>Literary festivals offer unique opportunities to:</p>
-      <ul>
-        <li>Discover new authors and books</li>
-        <li>Connect with fellow readers</li>
-        <li>Learn about the craft of writing</li>
-        <li>Experience the joy of literary community</li>
-      </ul>
-      
-      <p>Whether you're a writer, reader, or simply curious about the world of books, literary festivals provide spaces where stories come alive and ideas flourish.</p>
-    `
   }
 ]
 
