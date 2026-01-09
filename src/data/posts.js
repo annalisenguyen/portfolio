@@ -42,11 +42,40 @@ let posts = [
         Who never meet</p>
       </div>
       <div class="poem">
-        <h3>Skyline at Dusk</h3>
-        <p>Buildings reach upward<br/>
-        Touching clouds<br/>
-        While we below<br/>
-        Touch each other's lives</p>
+        <h3>I think its time to say goodbye</h3>
+        <p>I think I have to say goodbye<br/>
+        <br/>
+        Not a wave at the door<br/>
+        Or a whisper goodnight<br/>
+        <br/>
+        But to cleanse my soul<br/>
+        To douse this hope<br/>
+        That maybe it all wasn't a lie<br/>
+        <br/>
+        Of the pain I feel deep inside<br/>
+        To rid of you like a parasite<br/>
+        Leaving room for new flower<br/>
+        where they once all died<br/>
+        <br/>
+        There is no more: one last kiss<br/>
+        Or crying as you drive right by<br/>
+        No lingering hug<br/>
+        Or promise of tomorrow<br/>
+        To comfort me through the night<br/>
+        <br/>
+        I'll miss your touch<br/>
+        Your giddied little sigh<br/>
+        The warmth of what I knew<br/>
+        Was never really mine<br/>
+        <br/>
+        Deep down its true<br/>
+        That I was just the muse<br/>
+        To your oh so beautiful, elaborate little rouse<br/>
+        <br/>
+        Truth come to pass,<br/>
+        All just one – I love you – shaped lie<br/>
+        <br/>
+        I think its time to say goodbye</p>
       </div>
     `
   },
