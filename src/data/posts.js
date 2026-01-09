@@ -54,10 +54,42 @@ let posts = [
       </div>
       <div class="poem">
         <h3>My Favorite things</h3>
-        <p>Underground tunnels<br/>
-        Carry whispered conversations<br/>
-        Between strangers<br/>
-        Who never meet</p>
+        <p>I want you to know all my favorite things.<br/>
+        <br/>
+        But not as an icebreaker,<br/>
+        not to fill a silence,<br/>
+        To check another box,<br/>
+        or to know how to apologize on our worst days.<br/>
+        <br/>
+        I want you to know my favorite color is blue.<br/>
+        But with every shade and hue<br/>
+        and because it makes me think of my brother's room.<br/>
+        That those four walls and that exact hex<br/>
+        calm every unforgiving nerve and twitch running through.<br/>
+        <br/>
+        I want you to know my favorite dish is goi cuon.<br/>
+        How it brings me to what means home,<br/>
+        that it is the only thing I could stomach for those three months,<br/>
+        and I love the tradition of its skill<br/>
+        that I can't wait to watch you learn.<br/>
+        <br/>
+        I want you to know my favorite formations are waterfalls.<br/>
+        Even when we are on hikes with immaculate views.<br/>
+        Because the rush makes me feel small<br/>
+        and quiets my brain like every falling drop of rain…<br/>
+        perhaps one day I will be that powerful.<br/>
+        <br/>
+        I want you to know my favorite number is five.<br/>
+        That in trying to be them I needed<br/>
+        the squeak of a court to make me feel alive<br/>
+        and in my head its not an even nor an odd<br/>
+        But perfectly in between that satisfies my mind.<br/>
+        <br/>
+        I want you to know my favorite person is you<br/>
+        because without asking you knew<br/>
+        all my favorite things -<br/>
+        not as an obligation<br/>
+        but because you needed to know all of me.</p>
       </div>
       <div class="poem">
         <h3>I think its time to say goodbye</h3>
