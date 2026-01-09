@@ -123,37 +123,34 @@ let posts = [
     slug: 'storytelling-business',
     title: 'The Era of Loneliness',
     category: 'blog',
-    excerpt: 'How narrative techniques can enhance business communication...',
+    excerpt: 'Exploring the modern epidemic of loneliness and emotional isolation in the 21st century...',
     date: '2024-02-20',
     author: 'Annalise Nguyen',
-    tags: ['business', 'storytelling', 'communication'],
+    tags: ['mental health', 'loneliness', 'self-care'],
     content: `
-      <p>In today's competitive business landscape, the ability to tell compelling stories isn't just for novelists—it's a crucial skill for anyone looking to connect with customers, inspire teams, or communicate vision.</p>
+      <p>The 21st century, of which many now call 'The Era of Loneliness' seems to be nothing except for this: selfish, isolating, and almost paralyzing. With the extinction of so many breathtaking species, paired with an unsightly addiction to our phones, there seems to be nothing left in this world except the person in the mirror. Every couple of months since I have entered college, my friends and I ask each other this: 'are you happy?' And despite the time that has passed between, the answer is never simply 'yes', but how could it? The media has left us with nothing except for unrealistic expectations, drowning in the rat race to success, where no one seems to be drowning with you and only you seem to feel hopeless.</p>
       
-      <h2>Why Stories Matter in Business</h2>
-      <p>Stories help people remember information. While facts and figures fade, narratives stick. A well-told story can make your brand memorable, your pitch persuasive, and your message impactful.</p>
+      <p>In 2020, the spread of Covid-19 only exacerbated these effects. Despite the years that have passed since, our society has still yet to fully recover. The isolation we endured during this time never truly wore off and has left us taking on the world ourselves. If I have learned anything from these discussions in college on our intrinsic happiness however, it is that you are in fact not as lonely as you think.</p>
       
-      <h2>The Elements of Business Storytelling</h2>
-      <p>Effective business stories share key elements with literary narratives:</p>
+      <p>The definition of lonely is one's own unhappiness due to their solidarity or lack of companionship, the loneliness I speak of above is not of physical loneliness but emotional – the lack of shared emotional struggle. However, this feeling is 100% conceived in our own minds. To claim that "no one knows how you feel" is closed mind when we consider the countless years and people that have lived before us and it's rooted in our innate desire to be different and face struggle. This feeling of loneliness isn't due to genuine segregation but instead the perceived notion of it created by technology in the 21st century.</p>
+      
+      <p>Today we see unrealistic beauty standards and work habits plastered across every platform online. We are faced with endless comparison to be better, and creators everywhere purposefully make it look like a breeze. What's even worse is that we often front the worst of it when we are looking for an escape. We come home from a hard day at work to see everyone online seems to be doing great. This is what creates this feeling of loneliness and is one of the main reasons for the era's title. This feeling is created for everyone and in turn feelings of shame and inadequacy keep us from speaking about it, leading everyone to believe they are alone in this universal feeling. The truth is if you talk to someone about this honestly, you will find they feel the exact same.</p>
+      
+      <p>But what does this mean for us?</p>
+      
+      <p>It has been reported that mental health has drastically decreased overtime, especially in recent years and this is 100% not conceived in our own minds. One of the main causes for negative mental health and the outcomes that come from this is the all-consuming feeling of loneliness, often created due to the lack of genuine connection to those around us. This is simply to say you are not alone and while it is impossible to force the feeling away with one simple article, I urge you to try the following to change the downwards spiral we seem to be on.</p>
+      
       <ul>
-        <li><strong>Character:</strong> Your customer, your team, or your company</li>
-        <li><strong>Conflict:</strong> The problem you're solving</li>
-        <li><strong>Resolution:</strong> How your product or service provides the solution</li>
+        <li>Send check-ins with your friends (daily, weekly, monthly, etc.)</li>
+        <li>Do an activity or go outside when feeling down instead of scrolling online</li>
+        <li>Don't post fake content to make yourself "look better"</li>
+        <li>Shape your feed into a positive space – use the click 'not interested button' and be mindful of what you like and watch</li>
+        <li>Be honest with the people around you on how you actually feel</li>
       </ul>
       
-      <h2>Practical Applications</h2>
-      <p>Use storytelling in:</p>
-      <ul>
-        <li>Marketing campaigns that connect emotionally</li>
-        <li>Sales presentations that engage prospects</li>
-        <li>Team meetings that inspire action</li>
-        <li>Company culture that builds identity</li>
-      </ul>
+      <p>These actions are simple and don't take a lot of time but as life passes you will find that the mindset of isolation fades and feelings of loneliness are far more manageable. Remember above all that you are not alone and perhaps those who named the 21st century the "era of loneliness" got it wrong.</p>
       
-      <h2>Getting Started</h2>
-      <p>Begin by identifying the core story of your business. What problem do you solve? Who do you help? What transformation do you enable? Once you have this foundation, you can adapt it for different audiences and contexts.</p>
-      
-      <p>Remember: the best business stories aren't about you—they're about the people you serve and the value you create.</p>
+      <p>This post is in honor of suicide prevention month, as a reminder that you are never alone. As the month comes to an end, mental health does not. Remember to take care of yourself and your loved ones, and if you are ever facing thoughts of self-harm or suicide do not be afraid to reach out to those around you.</p>
     `
   },
   {
