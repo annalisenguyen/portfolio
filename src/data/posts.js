@@ -121,7 +121,7 @@ let posts = [
   },
   {
     slug: 'storytelling-business',
-    title: 'Blog Post: "The Art of Storytelling in Business"',
+    title: 'The Era of Loneliness',
     category: 'blog',
     excerpt: 'How narrative techniques can enhance business communication...',
     date: '2024-02-20',
